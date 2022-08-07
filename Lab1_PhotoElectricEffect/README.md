@@ -5,4 +5,4 @@ Einstein in his miracle year and earned him the nobel prize.
 
 The python notebook has all of the analysis for this lab. If you wish to look at the notebook please follow the link below to the OSF page. 
 
-![PhotoElectric Effect](https://osf.io/uxdw2/wiki/Lab%201:%20Photoelectric%20effect/)
+[PhotoElectric Effect](https://osf.io/uxdw2/wiki/Lab%201:%20Photoelectric%20effect/)
