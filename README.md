@@ -8,6 +8,8 @@ GithubRepositoryForModernPhysics330 - Performing experiments that were considere
 
 # Lab 2: Millikan Oil Drop Experiment 
 
+This lab tasked me with recreating the Millikan Oil Drop experiment which found the fundamental charge of the electron.
+
 # Lab 3: Inverse PhotoElectric Effect 
 
 ## An experiment conducted by duane and hunt that seeks to reacquire the slope h/e which is found in all materials. 
