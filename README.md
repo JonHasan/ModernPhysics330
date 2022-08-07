@@ -6,6 +6,11 @@ GithubRepositoryForModernPhysics330 - Performing experiments that were considere
 
 # Lab 1: PhotoElectric Effect 
 
+Second Lab in the Modern Physics Class
+
+Detailing the photoelectric effect posited by Einstein with the assistance of Max planck's quantization revelation. 
+
+
 # Lab 2: Millikan Oil Drop Experiment 
 
 This lab tasked me with recreating the Millikan Oil Drop experiment which found the fundamental charge of the electron.
