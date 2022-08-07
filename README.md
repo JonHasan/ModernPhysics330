@@ -10,6 +10,8 @@ GithubRepositoryForModernPhysics330 - Performing experiments that were considere
 
 # Lab 3: Inverse PhotoElectric Effect 
 
+## An experiment conducted by duane and hunt that seeks to reacquire the slope h/e which is found in all materials. 
+
 # Lab 4: Emission Spectrum 
 
 # Lab 5: Bragg Diffraction
