@@ -1,5 +1,5 @@
 # ModernPhysics330
-GithubRepositoryForModernPhysics330 - Performing experiments that were considered pivotal in the physics discipline
+GithubRepositoryForModernPhysics330 - Performing experiments that were considered important in the history of physics
 
 # Lab 0b: The pendulum Lab 
 
