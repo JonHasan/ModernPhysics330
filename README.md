@@ -11,7 +11,7 @@ Result: It was found that there was a linear relationship between the square roo
 
 Purpose: Detailing the photoelectric effect posited by Einstein with the assistance of Max planck's quantization revelation.
 
-Result: Equation for energy was found to be $E = 3.68x - 1.08$. This linear relationship was expected. The h/e value was calculated to be $3.68 +/- .15 \frac{J}{PHz * C)$. This differed from the true value of $4.14 \frac{J}{PHz * C)$ by 11.1%. 
+Result: Equation for energy was found to be $E = 3.68x - 1.08$. This linear relationship was expected. The h/e value was calculated to be $3.68 +/- .15 \frac{J}{PHz * C)$. This differed from the true value of $4.14 \frac{J}{PHz * C}$ by 11.1%. 
 
 # Lab 2: Millikan Oil Drop Experiment 
 
